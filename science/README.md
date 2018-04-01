@@ -13,3 +13,31 @@
 [相似工作](http://blog.jobbole.com/38732/)
 
 [学习学习](http://biopython.org/)
+
+
+
+# science python
+[numpy]():数学阵列
+
+[scipy]():线性代数，微分方程，信号处理等
+
+[sympy]():符号数学
+
+[matplotlib]():绘图
+
+[pandas]():数据分析
+
+[scikit-learn]():机器学习
+
+[biopython](http://www.biopython.org/):生物信息
+
+[psychopy]():心理学和神经科学
+
+[astropy]():天文学
+
+[qutip]()：量子力学系统
+
+
+
+
+
